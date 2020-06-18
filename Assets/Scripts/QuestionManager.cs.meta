@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3c0c9c1f7fb294193aed86b4aa4cb621
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSystem: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - selectedGameObject: {instanceID: 0}
+  - questionImage: {instanceID: 0}
+  - nazo1Sprite: {fileID: 21300000, guid: e3d383cf00ecf49d9a28bb6196ef9f2e, type: 3}
+  - nazo2Sprite: {fileID: 21300000, guid: 016967b9602164e3cad7de5578989611, type: 3}
+  - nazo3Sprite: {fileID: 21300000, guid: 9d03ab151ac254f4085799713d911192, type: 3}
+  - nazo4Sprite: {fileID: 21300000, guid: 1a0045d9e8cb840beb2865249c7c291b, type: 3}
+  - nazo5Sprite: {fileID: 21300000, guid: ea863180a3c654300a78cbea37a396f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

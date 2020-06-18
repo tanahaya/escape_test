@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eece4aef602ef473f9f7d3bdc32f5404
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSystem: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - selectedGameObject: {instanceID: 0}
+  - RedSprite: {fileID: 21300000, guid: 63d0821486fa94bf2af76f69a436feac, type: 3}
+  - BlueSprite: {fileID: 21300000, guid: d09f8eeacaedd49eeb0a1c8270d7112c, type: 3}
+  - GreenSprite: {fileID: 21300000, guid: 6a96f9498fa294c90b13e0d89b06b3ed, type: 3}
+  - greenDoor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
